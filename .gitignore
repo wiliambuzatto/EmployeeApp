@@ -1,0 +1,8 @@
+/SPA/dist/
+EmployeeApp.SPA/node_modules
+
+/API/
+EmployeeApp.API/bin
+EmployeeApp.API/obj
+
+
