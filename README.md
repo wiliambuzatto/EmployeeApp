@@ -49,3 +49,13 @@ Não foi mensionado sobre banco de dados e padrões exigidos.
 Portanto, devido ao tamanho do projeto optou-se:
 * SQLite (Caso necessário, fácil está mudar)
 * API em um único projeto, simples (se aumentar o projeto, é simples segregar mais)
+
+### Imagens
+Inicio
+![alt text](http://buzatto.com/employeeapp/TelaInicial.png)
+
+Cadastro
+![alt text](http://buzatto.com/employeeapp/Cadastro.png)
+
+Objetivo
+![alt text](http://buzatto.com/employeeapp/Objetivo.png)
